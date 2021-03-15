@@ -4168,6 +4168,13 @@ nice-try@^1.0.4:
   resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
   integrity sha512-1nh45deeb5olNY7eX82BkPO7SSxR5SSYJiPTrTdFUVYwAl8CKMA5N9PjTYkHiRjisVcxcQ1HXdLhx2qxxJzLNQ==
 
+node-base64-image@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/node-base64-image/-/node-base64-image-2.0.3.tgz#ab1125ace019d2959c8915fa4905be6c5f83158d"
+  integrity sha512-6wD7BYaSRU35LXejevnLjpHGJN5SnIh6H1LSfvGW1vpZOacj1t/q63ma0uLarZnkz/yjpUGjyZZ81diwHS76pw==
+  dependencies:
+    axios "0.21.1"
+
 node-emoji@1.10.0:
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/node-emoji/-/node-emoji-1.10.0.tgz#8886abd25d9c7bb61802a658523d1f8d2a89b2da"
